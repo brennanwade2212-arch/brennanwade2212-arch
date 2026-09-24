@@ -31,4 +31,4 @@ I'm CompTIA A+ certified and currently studying for the Cisco CCNA.
 - Cisco Wireless LAN Controller Deployment
 - VLAN & Network Segmentation Lab
 - More projects coming soon
-
+**
